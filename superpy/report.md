@@ -25,6 +25,8 @@ Afgezien de gevraagde opgaven heb ik het volgende ook geimplementeerd:
 4)	Toepassen van Pytest op de verschilede objecten.
 5)  opslaan van datum in tekst file.
 
+Testpy:
+the cvs file must only contain header, no double milk products other wise test test_sell_expired will fail.
 
 Examples
 
